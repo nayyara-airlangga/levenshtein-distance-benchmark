@@ -1,0 +1,605 @@
+IDX_SIM,INPUT1,INPUT1_ENG,INPUT2,INPUT2_ENG
+1,메르스,MERS,중동호흡기증후군,Middle East respiratory syndrome
+2,포비돈,povidone,베타딘,betadine
+3,아픽사반,apixaban,항혈전제,antithrombotic
+4,진해제,antitussive,코데인,codeine
+5,발진티푸스,typhus,장티푸스,typhoid
+6,골수생검,bone marrow biopsy,골수흡인,bone marrow aspiration
+7,혈액투석,hemodialysis,신대체요법,renal replacement therapy
+8,고혈압약,high blood pressure medication,발사르탄,valsartan
+9,결장암,colon cancer,직장암,rectal cancer
+10,신경내분비암종,neuroendocrine carcinoma,신경내분비종양,neuroendocrine tumor
+11,피부성형,skin plastic surgery,주름제거,wrinkle removal
+12,기관지천식,bronchial asthma,천식발작,asthma attack
+13,수막염,meningitis,뇌막염,meningitis
+14,기관지연축,bronchospasm,기관지수축,bronchospasm
+15,항콜린제,anticholinergic drugs,아트로핀,atropine
+16,버거병,Buerger's disease,혈관병,vascular disease
+17,뇌경색,cerebral infarction,허혈뇌졸중,ischemic stroke
+18,혈관절증,hemarthrosis,관절증,arthrosis
+19,삼킴곤란,dysphagia,연하곤란,dysphagia
+20,통증,ache,고통,pain
+21,수막뇌염,meningoencephalitis,일본뇌염,Japanese encephalitis
+22,골이식,bone graft,뼈이식,bone graft
+23,지주막하출혈,subarachnoid hemorrhage,거미막밑출혈,subarachnoid hemorrhage
+24,요로감염,urinary tract infection,방광염,cystitis
+25,울혈,congestion,폐부종,pulmonary edema
+26,치은염,gingivitis,치주염,periodontitis
+27,뇌전증약,epilepsy drug,발프로산,valproic acid
+28,스티렌,styrene,스틸렌,styrene
+29,수면장애,sleep disturbance,기면,lethargy
+30,심장근육병,heart muscle disease,심근병증,cardiomyopathy
+31,혈압상승제,blood pressure booster,승압제,vasopressor drugs
+32,호흡부전,respiratory failure,급성호흡곤란증후군,acute respiratory distress syndrome
+33,무지외반증,hallux valgus,엄지발가락가쪽휨,hallux valgus
+34,라미부딘,lamivudine,클레부딘,clevudine
+35,교모세포종,glioblastoma,신경모세포종,neuroblastoma
+36,입냄새,bad breath,구취,bad breath
+37,광견병,rabies,공수병,rabies
+38,조현병,schizophrenia,정신분열병,schizophrenia
+39,알츠하이머병,Alzheimer's disease,치매,dementia
+40,리도카인,lidocaine,마취제,anesthetic
+41,언어상실증,aphasia,언어장애,language disorder
+42,폐렴구균백신,pneumococcal vaccine,프리베나,privena
+43,프로포폴,propofol,미다졸람,midazolam
+44,테오필린,theophylline,기관지확장제,bronchodilator
+45,관절강직,joint stiffness,관절구축,joint contracture
+46,만성췌장염,chronic pancreatitis,급성췌장염,acute pancreatitis
+47,두개내출혈,intracranial hemorrhage,뇌내출혈,cerebral hemorrhage
+48,테트라사이클린,tetracycline,독시사이클린,doxycycline
+49,아편유사제,opioid,헤로인,heroin
+50,국소피부경화증,localized scleroderma,피부경화증,scleroderma
+51,전염병,infectious disease,감염병,infectious diseases
+52,인슐린,insulin,당뇨병약,diabetes medication
+53,클로로퀸,chloroquine,항말라리아제,antimalarial drugs
+54,아스피린,aspirin,항혈소판제,antiplatelet drugs
+55,방사선요법,radiation therapy,화학방사선요법,chemoradiotherapy
+56,물리치료,physiotherapy,물리요법,physical therapy
+57,망막염,retinitis,망막병증,retinopathy
+58,신경절종,ganglionoma,신경교종,glioma
+59,쇠약,weakness,쇠퇴,degeneration
+60,발달지연,developmental delay,발달장애,developmental disability
+61,강직간대발작,tonic clonic seizure,경련발작,convulsive seizure
+62,안구돌출,eye protrusion,갑상샘눈병증,thyroid ophthalmopathy
+63,고지혈증,hyperlipidemia,지질혈증,lipidemia
+64,메스꺼움,nausea,구역질,nausea
+65,췌장절제,pancreatic resection,췌십이지장절제,pancreaticoduodenectomy
+66,심장마비,heart attack,심폐정지,cardiopulmonary arrest
+67,소세포암종,small cell carcinoma,소세포폐암,small cell lung cancer
+68,심장비대,cardiac hypertrophy,좌심실비대,left ventricular hypertrophy
+69,장기이식,organ transplantation,각막이식,corneal transplantation
+70,아자티오프린,azathioprine,메토트렉세이트,methotrexate
+71,위관절융기염,epicondylitis,외측상과염,lateral epicondylitis
+72,열사병,heatstroke,일사병,sunstroke
+73,치주병,periodontal disease,치주질환,periodontal disease
+74,암피실린,ampicillin,페니실린,penicillin
+75,자궁내막종,endometrioma,자궁내막증식증,endometrial hyperplasia
+76,항결핵제,antituberculosis drugs,리팜핀,rifampin
+77,척추관절병증,spondyloarthropathy,척추관절염,spondyloarthritis
+78,항부정맥제,antiarrhythmic drugs,아미오다론,amiodaron
+79,신경안정제,nerve stabilizer,디아제팜,diazepam
+80,야뇨증,enuresis,야간뇨,nocturia
+81,혈액응고장애,coagulation disorder,섬유소원혈증,fibrinogenemia
+82,와파린,warfarin,헤파린,heparin
+83,굴절교정수술,refractive surgery,라식,LASIK
+84,지방증,steatosis,지방간,fatty liver
+85,척수분절,spinal cord segment,척추분리증,spondylolysis
+86,노르에피네프린,norepinephrine,에피네프린,epinephrine
+87,해열진통제,antipyretic analgesic,해열제,antipyretic
+88,신병증,nephropathy,콩팥병,kidney disease
+89,뇌전증,epilepsy,간질,epilepsy
+90,군발두통,cluster headache,긴장형두통,tension headache
+91,환시,hallucination,환각,hallucination
+92,에페드린,ephedrine,항히스타민제,antihistamine
+93,심부정맥혈전증,deep vein thrombosis,깊은정맥혈전증,deep vein thrombosis
+94,호흡기질환,respiratory diseases,인플루엔자,influenza
+95,방사선수술,radiation surgery,감마나이프,gamma knife
+96,타크로리무스,tacrolimus,파클리탁셀,paclitaxel
+97,하지부종,leg edema,다리부종,leg edema
+98,류마티스질환,rheumatic disease,류마티스관절염,rheumatoid arthritis
+99,구음장애,dysarthria,조음장애,articulation disorder
+100,관절병증,arthropathy,반응관절염,reactive arthritis
+101,감마글로불린병증,gammaglobulinopathy,감마글로불린혈증,gammaglobulinemia
+102,편마비,hemiplegia,반신마비,hemiplegia
+103,사지마비,quadriplegia,하반신마비,paraplegia
+104,빈호흡,tachypnea,과호흡,hyperpnea
+105,자궁내막염,endometritis,골반염,pelvic inflammatory disease
+106,만성콩팥병,chronic kidney disease,만성신부전,chronic renal failure
+107,스트렙토마이신,streptomycin,클린다마이신,clindamycin
+108,알부민뇨,albuminuria,단백뇨,proteinuria
+109,프로프라놀롤,propranolol,베타차단제,beta blocker
+110,혈액질환,blood diseases,구형적혈구증,spherocytosis
+111,항균제,antibacterial,아목시실린,amoxicillin
+112,뇌전증발작,epilepsy attack,대발작,grand mal seizure
+113,한센병,leprosy,나병,leprosy
+114,조직생검,tissue biopsy,장생검,intestinal biopsy
+115,공기가슴증,air chest disease,기흉,pneumothorax
+116,농포,pustule,고름집,abscess
+117,페닐케톤뇨증,phenylketonuria,유전질환,genetic diseases
+118,칼슘통로차단제,calcium channel blocker,암로디핀,amlodipine
+119,정신병약,antipsychotics,항정신병제,antipsychotics
+120,코피,epistaxis,비출혈,epistaxis
+121,갑상샘염,thyroiditis,갑상샘저하증,hypothyroidism
+122,척수증,myelopathy,척수병증,myelopathy
+123,골괴사,bone necrosis,무혈성괴사,avascular necrosis
+124,아세트아미노펜,acetaminophen,타이레놀,tylenol
+125,발열,fever,미열,mild fever
+126,각결막염,keratoconjunctivitis,각막염,keratitis
+127,임질,gonorrhea,성병,venereal disease
+128,혈관염,vasculitis,거대세포동맥염,giant cell arteritis
+129,요통,lumbago,요추염좌,lumbar sprain
+130,청력장애,hearing impairment,청력소실,hearing loss
+131,포진,herpes,구진,papule
+132,후비루,postnasal drip,콧물,rhinorrhea
+133,비스테로이드소염제,nonsteroidal anti-inflammatory drugs,이부프로펜,ibuprofen
+134,두드러기,hives,발진,rash
+135,자가이식,autograft,동종이식,allograft
+136,사구체질환,glomerular disease,국소분절사구체경화증,focal segmental glomerulosclerosis
+137,구개열,cleft palate,구순열,cleft lip
+138,바소프레신,vasopressin,혈관수축제,vasoconstrictor
+139,재채기,sneeze,마른기침,dry cough
+140,약물발진,drug eruption,고정약진,fixed drug eruption
+141,덱사메타손,dexamethasone,프레드니손,prednisone
+142,허기,hunger,배고픔,hungry
+143,뇌혈관질환,cerebrovascular disease,뇌동맥류,cerebral aneurysm
+144,압박궤양,pressure sores,욕창,bedsore
+145,인두염,pharyngitis,상기도감염,upper respiratory tract infection
+146,면역조절제,immunomodulator,면역억제제,immunosuppressant
+147,호지킨병,Hodgkin's disease,호지킨림프종,Hodgkin lymphoma
+148,사이클로스포린,cyclosporine,시클로스포린,cyclosporine
+149,아픔,pain,진통,labor pains
+150,전신홍반루푸스,systemic lupus erythematosus,자가면역질환,autoimmune disease
+151,진균감염,fungal infection,칸디다증,candidiasis
+152,림프절염,lymphadenitis,림프절병증,lymphadenopathy
+153,장질환,bowel disease,게실,diverticulum
+154,배뇨장애,dysuria,배뇨통,dysuria
+155,정동장애,affective disorder,기분장애,mood disorder
+156,심실중격결손,ventricular septal defect,심장병,heart disease
+157,혼수,coma,간성혼수,hepatic coma
+158,부정유합,malunion,부정교합,malocclusion
+159,평활근육종,leiomyosarcoma,횡문근육종,rhabdomyosarcoma
+160,배농,drainage,배액,drainage
+161,후두개염,epiglottis,후두염,laryngitis
+162,국소마취제,local anesthetic,부위마취,regional anesthesia
+163,부분발작,partial seizure,측두엽뇌전증,temporal lobe epilepsy
+164,정신질환,mental illness,망상,delusion
+165,청색증,cyanosis,호흡곤란,dyspnea
+166,가슴통증,chest pain,협심증,angina pectoris
+167,이명,tinnitus,이석증,otolithiasis
+169,어깨통증,shoulder pain,동결견,frozen shoulder
+170,만성간염,chronic hepatitis,간경화증,liver cirrhosis
+171,급성염증,acute inflammation,질염,vaginitis
+172,저혈압,hypotension,패혈쇼크,septic shock
+173,고인슐린혈증,hyperinsulinemia,인슐린종,insulinoma
+174,통풍,gout,고요산혈증,hyperuricemia
+175,항종양제,antineoplastic,아바스틴,avastin
+176,식도염,esophagitis,위식도역류,gastroesophageal reflux
+177,안토시아닌,anthocyanin,항산화제,antioxidant
+178,정복술,reduction,외고정,external fixation
+179,월경통,dysmenorrhea,월경전증후군,premenstrual syndrome
+180,엽절제,lobectomy,폐절제,lung resection
+181,양극성장애,bipolar disorder,조증,manic
+182,결막염,conjunctivitis,결막충혈,conjunctival hyperemia
+183,키트루다,keytruda,항암제,antineoplastic drugs
+184,성격장애,personality disorder,건강염려증,hypochondriasis
+185,빠른맥,tachycardia,심방조동,atrial flutter
+186,무기력,lethargy,만성피로증후군,chronic fatigue syndrome
+187,눈떨림,nystagmus,잔떨림,fibrillation
+188,만성림프구백혈병,chronic lymphocytic leukemia,골수성백혈병,myeloid leukemia
+189,림프부종,lymphedema,전신부종,systemic edema
+190,위통,stomachache,선통,adenalgia
+191,소포림프종,follicular lymphoma,비호지킨림프종,non-Hodgkin lymphoma
+192,척수염,myelitis,신경염,neuritis
+193,감염심내막염,infectious endocarditis,심근염,myocarditis
+194,피부병,skin disease,아토피,atopy
+195,분쇄골절,comminuted fracture,압박골절,compression fracture
+196,급성신부전,acute renal failure,신우신염,pyelonephritis
+197,루푸스신염,lupus nephritis,사구체신염,glomerulonephritis
+198,신장병,kidney disease,신세관산증,renal tubular acidosis
+199,피로,fatigue,허약,weakness
+200,슬관절염,knee arthritis,무릎통증,knee pain
+201,대장염,colitis,크론병,Crohn's disease
+202,약시,amblyopia,색약,color amblyopia
+203,장결석,enterolith,위석,gastrolith
+204,안면마비,facial paralysis,신경마비,nerve palsy
+205,무긴장발작,atonic seizures,근간대발작,myoclonic seizures
+206,급성담낭염,acute cholecystitis,담관염,cholangitis
+207,섬유근통,fibromyalgia,근막통증증후군,myofascial pain syndrome
+208,미세골절,micro fracture,피로골절,stress fracture
+209,신경섬유종,neurofibroma,피부섬유종,dermatofibroma
+210,자궁출혈,uterine bleeding,월경과다,hypermenorrhea
+211,최소침습수술,minimally invasive surgery,복강경수술,laparoscopic surgery
+212,개복,laparotomy,개흉,thoracotomy
+213,혈색소병증,hemoglobinopathy,야간혈색소뇨,nocturnal hemoglobinuria
+214,연골무형성증,achondroplasia,연골연화증,chondromalacia
+215,고관절염,hip arthritis,천장관절염,sacroiliac arthritis
+216,공황장애,panic disorder,강박장애,obsessive-compulsive disorder
+217,신증,nephrosis,신증후군,nephrotic syndrome
+218,강직발작,tonic seizure,뇌병증,encephalopathy
+219,재생불량빈혈,aplastic anemia,악성빈혈,pernicious anemia
+220,수면제,sleeping pills,진정제,sedative
+221,사마귀,mantis,종기,carbuncle
+222,숨참,breathlessness,호흡정지,respiratory arrest
+223,악성흑색종,malignant melanoma,편평세포암종,squamous cell carcinoma
+224,피하주사,hypodermic injection,근육주사,intramuscular injection
+225,뎅기열,dengue fever,황열,yellow fever
+226,신경증,neurosis,자율신경병증,autonomic neuropathy
+227,신경종,neuroma,신경병증,neuropathy
+228,외투세포림프종,mantle cell lymphoma,버킷림프종,Burkitt lymphoma
+229,무릎관절염,knee arthritis,퇴행관절염,degenerative arthritis
+230,고칼슘혈증,hypercalcemia,저칼슘혈증,hypocalcemia
+231,엑시머레이저,excimer laser,미세수술,microsurgery
+232,현기증,dizziness,혼미,stupor
+233,혈관확장제,vasodilators,혈압강하제,antihypertensive agent
+234,장폐색,ileus,장중첩증,intussusception
+235,제왕절개,cesarean section,유도분만,induction of labor
+236,동맥경화증,arteriosclerosis,말초혈관질환,peripheral vascular disease
+237,부고환염,epididymitis,고환염,orchitis
+238,유잉육종,Ewing's sarcoma,혈관육종,angiosarcoma
+239,혈전색전증,thromboembolism,폐색전증,pulmonary embolism
+240,극세포종,acanthoma,형질세포종,plasmacytoma
+241,압통,tenderness,연관통,referred pain
+242,잠복결핵,latent tuberculosis,장결핵,intestinal tuberculosis
+243,진폐증,pneumoconiosis,규폐증,silicosis
+244,레티놀,retinol,멀티비타,multivita
+245,외이도염,otitis externa,중이염,otitis media
+246,골육종,osteosarcoma,연골육종,chondrosarcoma
+247,절박뇨,urgency,요실금,urinary incontinence
+248,문맥고혈압,portal hypertension,폐고혈압,pulmonary hypertension
+249,유전병,hereditary disease,터너증후군,Turner’s syndrome
+250,피하기종,subcutaneous emphysema,폐기종,emphysema
+251,지중해빈혈,thalassemia,낫적혈구빈혈,sickle cell anemia
+252,일과성허혈발작,transient ischemic attack,뇌졸중,stroke
+253,폭식증,bulimia,정신병,psychosis
+254,철결핍빈혈,iron deficiency anemia,거대적혈모구빈혈,megaloblastic anemia
+255,내당능장애,impaired glucose tolerance,고혈당,hyperglycemia
+256,척추마취,spinal anesthesia,경막외마취,epidural anesthesia
+257,이상감각,paresthesia,이물감,foreign body sensation
+258,담낭용종,gallbladder polyps,담낭암,gallbladder cancer
+259,연골염,chondritis,골염,osteitis
+260,식중독,food poisoning,소화장애,digestive disorder
+261,응고병증,coagulopathy,혈우병,hemophilia
+262,대머리,bald,원형탈모,alopecia areata
+263,치석,tartar,치태,dental plaque
+264,심방빈맥,atrial tachycardia,심실빈맥,ventricular tachycardia
+265,느린맥,bradycardia,심장부정맥,heart arrhythmia
+266,원시,hypermetropia,근시,myopia
+267,지속발기증,priapism,발기부전,erectile dysfunction
+268,알칼리증,alkalosis,산증,acidosis
+269,창백,pallor,홍조,flushing
+270,저칼륨혈증,hypokalemia,고칼륨혈증,hyperkalemia
+271,주의력결핍,attention deficit,학습장애,learning disorder
+272,고나트륨혈증,hypernatremia,저나트륨혈증,hyponatremia
+273,뇌수막염,meningitis,뇌척수염,encephalomyelitis
+274,색소침착,pigmentation,혈색소침착증,hemochromatosis
+275,낭창,lupus,열창,fissure
+276,구강건조증,xerostomia,피부건조증,xerosis cutis
+277,무감각,anaesthesia,무감동,apathy
+278,좌상,strain,타박상,contusion
+279,복시,diplopia,난시,astigmatism
+280,총담관결석,choledocholithiasis,신결석,nephrolithiasis
+281,개회충,toxocara canis,톡소포자충증,toxoplasmosis
+282,만성기관지염,chronic bronchitis,세기관지염,bronchiolitis
+283,긴장증,catatonia,공포증,phobia
+284,무감마글로불린혈증,agammaglobulinemia,한랭글로불린혈증,cryoglobulinemia
+285,혈흉,hemothorax,농흉,empyema
+286,요추천자,lumbar puncture,관절천자,joint puncture
+287,데노수맙,denosumab,리툭시맙,rituximab
+288,트림,burp,가스,gas
+289,결절홍반,nodular erythema,다형홍반,erythema multiforme
+290,양성종양,benign tumor,악성종양,malignant tumor
+291,빈맥,tachycardia,서맥,bradycardia
+292,지루각화증,seborrheic keratosis,지루피부염,seborrheic dermatitis
+293,조기분만,premature delivery,전자간증,pre-eclampsia
+294,객혈,hemoptysis,폐결핵,tuberculosis
+295,베체트병,Behcet's disease,구강궤양,oral ulcer
+296,수포,water blister,유사천포창,pemphigoid
+297,소양감,itching,아토피피부염,atopic dermatitis
+298,페니토인,phenytoin,소발작,petit mal seizure
+299,소화불량,dyspepsia,소화제,peptic
+300,저림,paresthesia,말초신경병증,peripheral neuropathy
+301,장출혈,gastrointestinal bleeding,토혈,hematemesis
+302,허리통증,back pain,추간판탈출,herniated intervertebral disc
+303,대상포진후신경통,postzoster neuralgia,대상포진,herpes zoster
+304,치통,toothache,충치,dental caries
+305,피부염,dermatitis,가려움,pruritus
+306,맹장염,appendicitis,복통,abdominal pain
+307,월경곤란,dysmenorrhea,다낭난소증후군,polycystic ovarian syndrome
+308,우울증,depression,항우울제,antidepressant
+309,두근거림,palpitations,심실세동,ventricular fibrillation
+310,호흡저하,hypoventilation,저산소증,hypoxia
+311,전신발작,generalized seizure,열성경련,febrile convulsions
+312,풍선확장술,balloon dilatation,혈관성형,angioplasty
+313,변비약,laxatives,관장,enema
+314,독소루비신,doxorubicin,스파미드,spamid
+315,건초염,tenosynovitis,관절통,arthralgia
+316,시신경유두부종,papilledema,시신경염,optic neuritis
+317,성인병,adult disease,비만,obesity
+318,포도막염,uveitis,눈부심,glare
+319,얼음찜질,ice pack,열요법,heat therapy
+320,박피,dermabrasion,여드름흉터,acne scars
+321,속쓰림,heartburn,위궤양,stomach ulcer
+322,수신증,hydronephrosis,방광요관역류,vesicoureteral reflux
+323,부신부전,adrenal insufficiency,쿠싱증후군,Cushing’s syndrome
+324,기관지확장증,bronchiectasis,백일해,pertussis
+325,플루마제닐,flumagenyl,해독제,antidotes
+326,황달,jaundice,고빌리루빈혈증,hyperbilirubinemia
+327,아세틸콜린,acetylcholine,아드레날린,adrenaline
+328,비장비대,splenomegaly,비장절제,splenectomy
+329,충수염,appendicitis,충수절제,appendectomy
+330,척추관협착증,spinal stenosis,척추통증,spinal pain
+331,발치,extraction,임플란트,implant
+332,유방통,mastodynia,유방염,mastitis
+333,용종,polyp,용종절제,polypectomy
+334,유방재건,breast reconstruction,유방절제,mastectomy
+335,실어증,aphasia,의사소통장애,communication disorder
+336,절뚝거림,claudication,다리통증,leg pain
+337,자발안진,spontaneous nystagmus,어지럼,dizziness
+338,근육병증,myopathy,근위축,muscular atrophy
+339,간절제,liver resection,간이식,liver transplantation
+340,고중성지방혈증,hypertriglyceridemia,대사질환,metabolic disease
+341,간세포암종,hepatocellular carcinoma,전이암,metastatic cancer
+342,척추전방전위증,spondylolisthesis,척추갈림증,spina bifida
+343,이상각화증,dyskeratosis,땀구멍각화증,porokeratosis
+344,범혈구감소증,pancytopenia,중증열성혈소판감소증후군,severe fever with thrombocytopenia syndrome
+345,국소마취,local anesthesia,정맥마취,intravenous anesthesia
+346,편도염,tonsillitis,부비동염,sinusitis
+347,신장이식,kidney transplantation,이종이식,xenograft
+348,위마비,gastroparesis,성대마비,vocal cord paralysis
+349,간독성,hepatotoxicity,급성간염,acute hepatitis
+350,태반조기박리,placental abruption,조기양막파수,premature rupture of membranes
+351,셀레늄,selenium,프로폴리스,propolis
+352,실행증,apraxia,무도증,chorea
+353,난청,hearing loss,환청,auditory hallucinations
+354,부신절제,adrenal resection,낭절제,cystectomy
+355,잠혈,occult blood,재출혈,rebleeding
+356,요독증,uraemia,용혈요독증후군,hemolytic uremic syndrome
+357,피부섬유육종,skin fibrosarcoma,지방육종,liposarcoma
+358,근육경련,muscle cramps,근간대경련,myoclonus
+359,해면혈관종,cavernous hemangioma,림프관종,lymphangioma
+360,소독제,disinfectant,만병통치약,panacea
+361,두개인두종,craniopharyngioma,아교질종,collagenoma
+362,바렛식도,Barrett's esophagus,식도이완불능증,esophageal achalasia
+363,안구건조증,xerophthalmia,노안,presbyopia
+364,심장막염,pericarditis,심장눌림증,cardiac tamponade
+365,중피종,mesothelioma,상피종,epithelioma
+366,전립샘염,prostatitis,전립샘암,prostate cancer
+367,혈뇨,hematuria,잔뇨,residual urine
+368,골연골염,osteochondritis,골수염,osteomyelitis
+369,잠복고환,cryptorchidism,고환종,seminoma
+370,식품알레르기,food allergy,알레르기접촉피부염,allergic contact dermatitis
+371,뇌진탕,concussion,기억상실,amnesia
+372,비용종,nasal polyp,비부비동염,rhinosinusitis
+373,갑상샘종,goiter,뇌하수체샘종,pituitary adenoma
+374,낭종,cyst,기형종,teratoma
+375,관절성형,arthroplasty,연골절개,cartilage incision
+376,진성적혈구증가증,erythrocytosis,호산구증가증,eosinophilia
+377,혈액암,blood cancer,고형암,solid cancer
+378,종창,swelling,농양,abscess
+379,신경절제,nerve resection,신경근차단제,neuromuscular blockers
+380,유암종,carcinoid tumor,장액종,seroma
+381,연골종,chondroma,수막종,meningioma
+382,위절제,gastrectomy,위밴드술,gastric banding
+383,포상기태,hydatidiform mole,자궁근종,uterine myoma
+384,모낭염,folliculitis,다모증,hirsutism
+385,실신,syncope,섬망,delirium
+386,과체중,overweight,대사증후군,metabolic syndrome
+387,디프테리아,diphtheria,렙토스피라증,leptospirosis
+388,림프관염,lymphangitis,혈전정맥염,thrombophlebitis
+389,온천요법,balneotherapy,파라핀,paraffin
+390,수족구병,"hand, foot and mouth disease",성홍열,scarlet fever
+391,근감소증,sarcopenia,골감소증,osteopenia
+392,감압병,decompression illness,고산병,altitude sickness
+393,췌관조영,pancreatic ductography,관상동맥조영,coronary angiography
+394,외사시,exotropia,부등시,anisometropia
+395,아스코르빈산,ascorbic acid,히알루론산,hyaluronic acid
+396,장병증,enteropathy,장막염,serositis
+397,평발,flat foot,족저근막염,plantar fasciitis
+398,지방변,steatorrhoea,혈변,hematochezia
+399,브루셀라증,brucellosis,레지오넬라증,legionellosis
+400,황색육아종,xanthogranuloma,과오종,hamartoma
+401,저린감,numbness,자통,stinging pain
+402,다발경화증,multiple sclerosis,해마경화증,hippocampal sclerosis
+403,자궁외임신,ectopic pregnancy,임신중독증,toxemia of pregnancy
+404,골수섬유증,myelofibrosis,골수형성이상,myelodysplasia
+405,지방층염,panniculitis,지방종,lipoma
+406,유두종,papilloma,물사마귀,molluscum contagiosum
+407,프리바이오틱스,prebiotics,스쿠알렌,squalene
+408,좌골신경통,sciatica,방사통,radiating pain
+409,크롬친화세포종,pheochromocytoma,망막모세포종,retinoblastoma
+410,가스트린종,gastrinoma,카포시육종,Kaposi's sarcoma
+411,감각이상,paresthesia,인지장애,cognitive disorder
+412,백반증,vitiligo,백선증,tinea
+413,심장사,cardiac death,심장소생술,cardiac resuscitation
+414,담석증,cholelithiasis,담낭절제,cholecystectomy
+415,혈압상승,elevation of blood pressure,트로핀,trophine
+416,심혈관질환,cardiovascular disease,관상동맥우회술,coronary artery bypass graft
+417,자궁경부암,cervical cancer,가다실,gardasil
+418,라니티딘,ranitidine,위염,gastritis
+419,다운증후군,Down’s syndrome,정신지체,mental retardation
+420,피나스테리드,finasteride,전립샘비대,prostate hypertrophy
+421,화상,burn,물집,blister
+422,실명,blindness,망막박리,retinal detachment
+423,작열감,burning sensation,찰과상,abrasion
+424,항불안제,anti-anxiety drugs,공황발작,panic attack
+425,고혈압,hypertension,항고혈압제,antihypertensive drugs
+426,어루러기,pityriasis versicolor,항진균제,antifungal
+427,항구토제,antiemetic,욕지기,nausea
+428,요붕증,diabetes insipidus,다뇨,polyuria
+429,불임,sterility,인공수정,intrauterine insemination
+430,구갈,polydipsia,당뇨병,diabetes mellitus
+431,안정제,stabilizer,불안장애,anxiety disorder
+432,간신증후군,hepatorenal syndrome,무뇨,anuria
+433,수혈,blood transfusion,대량출혈,massive bleeding
+434,가래,sputum,거담제,expectorants
+435,탈수,dehydration,콜레라,cholera
+437,폐쇄폐질환,obstructive pulmonary disease,쌕쌕거림,wheezing
+438,눈꺼풀뒤당김,eyelid retraction,안검하수,blepharoptosis
+439,갑상샘항진증,hyperthyroidism,메티마졸,methimazole
+441,유방암,breast cancer,타목시펜,tamoxifen
+442,카티스템,cartistem,골관절염,osteoarthritis
+443,고열,high fever,말라리아,malaria
+444,여드름,acne,이소트레티노인,isotretinoin
+445,항바이러스제,antiviral,단순포진바이러스,herpes simplex virus
+446,화학색전술,chemical embolization,간암,liver cancer
+447,방실차단,atrioventricular block,심장박동조율기,pacemaker
+448,복합부분발작,complex partial seizures,벤조다이아제핀,benzodiazepine
+449,고콜레스테롤혈증,hypercholesterolemia,스타틴,statin
+450,쿠싱병,Cushing's disease,스테로이드,steroid
+451,충혈제거제,decongestant,코감기,cold
+452,멜라토닌,melatonin,불면증,insomnia
+453,요로결석,urolithiasis,산통,colic
+454,심방세동,atrial fibrillation,항응고제,anticoagulant
+455,성기능장애,sexual dysfunction,실데나필,sildenafil
+456,심정지,cardiac arrest,전문심장소생술,advanced cardiac resuscitation
+457,레보도파,levodopa,파킨슨병,Parkinson's disease
+458,수포음,rale,기관지폐렴,bronchopneumonia
+459,교감신경차단,sympathetic nerve block,다한증,hyperhidrosis
+460,통풍관절염,gouty arthritis,콜히친,colchicine
+461,탈구,dislocation,도수정복,manual reduction
+462,골다공증,osteoporosis,비스포스포네이트,bisphosphonate
+463,항경련제,anticonvulsant,뇌전증지속상태,status epilepticus
+464,이질,dysentery,지사제,antidiarrhotica
+465,메니에르병,Meniere's disease,청력저하,hearing loss
+466,관상동맥류,coronary aneurysm,가와사키병,Kawasaki disease
+467,알레르기비염,allergic rhinitis,코막힘,nasal obstruction
+468,혈관조영,angiography,조영제,contrast
+469,미녹시딜,minoxidil,탈모,alopecia
+470,재관류,reperfusion,급성심근경색증,acute myocardial infarction
+471,소염제,anti-inflammatory drugs,유행성이하선염,mumps
+472,눈성형,eye surgery,눈꺼풀처짐,blepharoptosis
+473,수면무호흡,sleep apnea,양압환기,positive pressure ventilation
+474,심방중격결손,atrial septal defect,심잡음,heart murmur
+475,클라인펠터증후군,Klinefelter syndrome,염색체이상,chromosome anomaly
+476,메트로니다졸,metronidazole,장염,enteritis
+477,오한,chills,출혈열,hemorrhagic fever
+478,식욕억제제,appetite suppressant,식욕부진,anorexia
+479,기도폐쇄,airway obstruction,혈관부종,angioedema
+480,저산소혈증,hypoxemia,질식,asphyxia
+481,녹내장,glaucoma,만성편두통,chronic migraine
+482,심부전,heart failure,강심제,cardiac stimulants
+483,진통제,analgesic,복합부위통증증후군,complex regional pain syndrome
+484,활막염,synovitis,활막절제,synovectomy
+485,아픈,painful,각막궤양,corneal ulcer
+486,뇌성마비,cerebral palsy,난산,obstructed labor
+487,자궁파열,uterine rupture,자궁절제,hysterectomy
+488,리바록사반,rivaroxaban,뇌출혈,cerebral hemorrhage
+489,위장염,gastroenteritis,구토제,emetics
+490,카르니틴,carnitine,허혈심장병,ischemic heart disease
+491,심장정지,cardiac arrest,저체온요법,hypothermia
+492,이소니아지드,isoniazid,피리독신,pyridoxine
+493,간질환,liver disease,알코올중독,alcoholism
+494,항문암,anal cancer,장루,stoma
+495,장절제,enterectomy,장폐쇄,intestinal obstruction
+496,별아교세포종,astrocytoma,방사선치료,radiation therapy
+497,낭성종양,cystic tumor,적출,extirpation
+498,산소투여,oxygenation,기관절개,tracheostomy
+499,성형수술,cosmetic surgery,오목가슴,pectus excavatum
+500,전신마취,general anesthesia,기관내삽관,endotracheal intubation
+501,골수이식,bone marrow transplantation,골수형성이상증후군,myelodysplastic syndrome
+502,안내렌즈삽입,implantable contact lens implant surgery,백내장,cataract
+503,경구혈당강하제,oral hypoglycemic drugs,저혈당,hypoglycemia
+504,치핵,hemorrhoids,경화요법,sclerotherapy
+505,소화궤양,peptic ulcer,제산제,antacid
+506,중증근무력증,myasthenia gravis,혈장교환,plasma exchange
+507,복막투석,peritoneal dialysis,복막염,peritonitis
+508,에크모,ECMO,쇼크,shock
+509,세균뇨,bacteriuria,요도염,urethritis
+510,우황청심원,Woohwangcheongshimwon,스트레스,stress
+511,치은출혈,gingival bleeding,치석제거,scaling
+512,이뇨제,diuretic,고칼슘뇨,hypercalciuria
+513,진경제,antispasmodic,내장통,visceral pain
+514,비중격만곡,nasal septal deviation,코성형,rhinoplasty
+515,파종혈관내응고,disseminated intravascular coagulation,패혈증,sepsis
+516,질증,vaginosis,질정,vaginal tablet
+517,땀띠,miliaria,발한,sweating
+518,경직,stiffness,강직척추염,ankylosing spondylitis
+519,림프절절제,lymphadenectomy,림프절전이,lymph node metastasis
+520,지방제거,fat removal,자가지방이식,autologous fat graft
+521,미세혈관병증,microangiopathy,칼리크레인,kallikrein
+522,포경수술,circumcision,질성형,vaginoplasty
+523,문합,anastomosis,인대파열,ligament rupture
+524,항염증제,anti-inflammatory,전정신경염,vestibular neuritis
+525,근이완제,muscle relaxants,사경,torticollis
+526,건선,psoriasis,생물학적제제,biological preparation
+527,목통증,neck pain,전염단핵구증,infectious mononucleosis
+528,배란유도,ovulation induction,경구피임제,oral contraceptives
+529,파동편모충,trypanosoma,구충제,parasiticide
+530,정맥주사,intravenous injection,옥시토신,oxytocin
+531,내시경술,endoscopy,상피내암종,carcinoma in situ
+532,양수과소증,oligohydramnios,전치태반,placenta previa
+533,실인증,agnosia,자동증,automatism
+534,접촉피부염,contact dermatitis,백선,tinea
+535,성대결절,vocal nodules,통풍결절,tophus
+536,낭성섬유증,cystic fibrosis,폐섬유증,pulmonary fibrosis
+537,식도정맥류,esophageal varices,동정맥루,arteriovenous fistula
+538,과다색소침착,hyperpigmentation,가시세포증,acanthosis
+539,십이지장절제,duodenal resection,십이지장궤양,duodenal ulcer
+540,냉동요법,cryotherapy,동상,frostbite
+541,자궁근종절제,myomectomy,자궁내막증,endometriosis
+542,고프로락틴혈증,hyperprolactinemia,질소혈증,azotemia
+543,혈종,hematoma,황색종,xanthoma
+544,저마그네슘혈증,hypomagnesemia,저알부민혈증,hypoalbuminemia
+545,수질암,medullary carcinoma,질암,vaginal cancer
+546,소두증,microcephaly,수두증,hydrocephalus
+547,매독,syphilis,구루병,rickets
+548,애디슨병,Addison’s disease,유육종,sarcoid
+549,좌약,suppository,치루,anal fistula
+550,근긴장,muscle tone,근육통,myalgia
+551,남성갱년기,andropause,미주신경자극,vagus nerve stimulation
+552,위세척,gastric lavage,말초동맥질환,peripheral artery disease
+553,이식편대숙주병,graft versus host disease,멜라닌세포모반,melanocytic nevus
+554,자간전증,preeclampsia,소파술,curettage
+555,다래끼,hordeolum,음악요법,music therapy
+556,리보플라빈,riboflavin,만니톨,mannitol
+557,천공,perforation,괴혈병,scurvy
+558,부검,autopsy,뇌사,brain death
+559,결합조직병,connective tissue disease,무과립구증,agranulocytosis
+560,요오드,iodine,아데노신,adenosine
+561,여성형유방,gynecomastia,성조숙,precocious puberty
+562,굳은살,calluse,켈로이드,keloid
+563,홍역,measles,라임병,lyme disease
+564,알도스테론증,aldosteronism,탈진,exhaustion
+565,페스트,plague,폐흡충증,paragonimiasis
+566,괴저,gangrene,항인지질항체증후군,antiphospholipid antibody syndrome
+567,양막파열,amniotic membrane rupture,양수과다,polyhydramnios
+568,파상풍,tetanus,신경매독,neurosyphilis
+569,가성동맥류,pseudoaneurysm,대동맥류,aortic aneurysm
+570,영아연축,infantile spasm,영아돌연사,sudden infant death
+571,무기폐,atelectasis,자폐증,autism
+572,고암모니아혈증,hyperammonemia,산혈증,acidemia
+573,발관절염,foot arthritis,아킬레스건염,Achilles tendinitis
+574,외반슬,genu valgum,보행장애,gait disorder
+575,수근관증후군,carpal tunnel syndrome,구획증후군,compartment syndrome
+576,사혈,venesection,교환수혈,exchange transfusion
+577,하지불안증후군,restless legs syndrome,하지통,lower limb pain
+578,칼시트리올,calcitriol,루테인,lutein
+579,내림프수종,endolymphatic hydrops,태아수종,hydrops fetalis
+580,전신경화증,systemic sclerosis,신경화증,nephrosclerosis
+581,윌슨병,Wilson's disease,부갑상샘항진증,hyperparathyroidism
+582,점막염,mucositis,융모양막염,chorioamnionitis
+583,배변장애,defecation disorder,발성장애,dysphonia
+584,탄저,anthrax,티눈,corn
+585,탈장,hernia,응급수술,emergency surgery
+586,모야모야병,moyamoya disease,말단비대증,acromegaly
+587,신경뿌리병증,radiculopathy,삼차신경통,trigeminal neuralgia
+588,기관지폐포세척,bronchoalveolar lavage,세침흡인,fine neddle aspiration
+589,충돌증후군,impingement syndrome,견열골절,avulsion fracture
+590,성장통,growing pain,성장장애,growth disorder
+591,연조직염,cellulitis,농가진,impetigo
+592,에이즈,AIDS,바셀린,vaseline
+593,피부근염,dermatomyositis,구내염,stomatitis
+594,비늘증,ichthyosis,두창,smallpox
+595,혼합백신,combination vaccines,지혈제,hemostatic
+596,복수,ascites,창냄술,fenestration
+597,납중독,lead poisoning,포르피린증,porphyria
+598,파브리병,Fabry's disease,다발골수종,multiple myeloma
+599,멀미,motion sickness,시야결손,visual field defect
+600,조직구증,histiocytosis,단핵구증,mononucleosis
+601,액취증,osmidrosis axillae,피부이식,skin graft
+602,공기색전증,air embolism,말더듬,stuttering
+603,기미,chloasma,습진,eczema
+604,척수공동증,syringomyelia,아밀로이드증,amyloidosis
+605,동정맥기형,arteriovenous malformation,대동맥박리,aortic dissection
+606,종괴,mass,난소절제,ovariectomy
+607,코골이,snoring,관절조영,arthrography
